@@ -2,6 +2,11 @@
 Hackintosh EFI for Dell 7000 series laptops     --opencore
 
 
+   If you have any questions, you can ask in the communication group
+
+   Communication Group（qq）：112526282
+
+
 BIOS settings：
 
 Most of these options may not be present in your firmware, we recommend matching up as closely as possible but don't be too concerned if many of these options are not available in your BIOS

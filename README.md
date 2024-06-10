@@ -7,7 +7,11 @@ Hackintosh EFI for Dell 7000 series laptops     --opencore
    Communication Group（qq）：112526282
 
 
+After entering the system, run /efi/OC/ComboJack Fix/ComboJack_Installer/install.sh in the terminal
+
+
 BIOS settings：
+
 
 Most of these options may not be present in your firmware, we recommend matching up as closely as possible but don't be too concerned if many of these options are not available in your BIOS
 
